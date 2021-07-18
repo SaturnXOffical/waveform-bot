@@ -1,0 +1,30 @@
+{
+  "name": "waveform_discordbot",
+  "version": "1.0.0",
+  "description": "discord music bot using discord.js",
+  "main": "waveform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaturnXOffical/waveform-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "SaturnDev / SaturnXOffical",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SaturnXOffical/waveform-bot/issues"
+  },
+  "homepage": "https://github.com/SaturnXOffical/waveform-bot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.8.3"
+  }
+}
