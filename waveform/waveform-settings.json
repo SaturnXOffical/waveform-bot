@@ -2,5 +2,6 @@
     "prefix": "waveform/",
     "token": "token here",
     "wfcol": "32ffb7",
-    "invalmsg": "Please enter a valid command"
+    "invalmsg": "Please enter a valid command",
+    "version": "1.0.2"
     }
